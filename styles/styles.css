@@ -1,0 +1,71 @@
+html{
+    
+    text-align:center;
+    background-color:black;
+    
+}
+#color{
+    
+    height:200px;
+    width:100%;
+    background-color:#ffffff;
+    align-content:center; 
+    position:inherit;
+    float:left;
+    border-top-left-radius:40px;
+    border-top-right-radius:40px;
+    
+}
+
+#color2{
+    
+    height:200px;
+    width:100%;
+    background-color:#ffffff;
+    align-content:center; 
+    position:inherit;
+    float:left;
+    border-bottom-left-radius:40px;
+    border-bottom-right-radius:40px;
+    
+}
+
+button{
+    
+    height:75px;
+    width:100%;
+    border-radius:40px;
+    margin-top: 25px;
+    background-color:white;
+    
+}
+
+#demo{
+    
+    font-size:50px;
+    color:white;
+}
+
+#demo2{
+    
+    color:white;
+}
+
+#btnReverse{
+    
+
+    
+}
+
+#wrapper{
+    
+    border-color:black;
+    border-style:solid;
+    border-width:6px;
+    border-radius:50px;
+    height:450px;
+    width:96%;
+    margin-left:1%;
+    margin-right:1%;
+    
+}
